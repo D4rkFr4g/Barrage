@@ -14,4 +14,4 @@ Spawn troops to send after enemy base. You can spawn troops up to midfield to st
 Known issues:	
 ? Enemy AI is hard, really hard
 ? Game is missing a quit from title function
-? Enemy keeps spawning at it's furtherst reached point instead of furthest actual point
+? Enemy keeps spawning at it's furthest reached point instead of furthest actual point
